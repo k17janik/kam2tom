@@ -7,7 +7,7 @@ int *compress(double ** a_table, int *a_size);
 int main()
 {
     double *tab;
-    int x; int rozmtab; //zmiana 
+    int x; int rozmtab; //zmiana tekstu
     rozmtab = 0;
     tab = calloc(ROZM, sizeof(*tab));
     if(tab == NULL)
