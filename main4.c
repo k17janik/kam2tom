@@ -5,19 +5,19 @@
 #define ROW2 5
 #define COL2 2
 
-int main()
+int main()//b³¹d w tej linijce//
 {
     float taba[ROW1][COL1] =
     {
         { 1,0,2 },
         { -1,3,1}
-    };
+    }
     float tabb[ROW2][COL2] =
     {
         { 3,1 },
         { 2,1 },
         { 1,0 }
-    };
+    }
     float tabc[ROW1][COL2] = {};
     float iloczyn;
     iloczyn = 0;
