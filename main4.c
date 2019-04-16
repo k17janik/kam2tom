@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define ROW1 2
-#define COL1 3
-#define ROW2 3
+#define COL1 5
+#define ROW2 5
 #define COL2 2
 
 int main()
