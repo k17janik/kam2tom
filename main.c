@@ -49,7 +49,7 @@ int *compress(double ** a_table, int *a_size)
         }
     }
     z = 0;
-    for(y=0;y<ROZM;y++)
+    for(y=0;y<ROZM;y++) //petla for robiaca cos//
     {
         if((*a_table)[y] != 0)
         {
