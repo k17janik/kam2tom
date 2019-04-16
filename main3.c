@@ -4,6 +4,7 @@
 void deleteMatrix(double*** tab, int n)
 {
     int x;
+    int y;
     for(x=0;x<n;x++)
     {
         free((*tab)[x]);
