@@ -17,7 +17,7 @@ int main()//b³¹d w tej linijce//
         { 3,1 },
         { 2,1 },
         { 1,0 }
-    };
+    }
     float tabc[ROW1][COL2] = {};
     float iloczyn;
     iloczyn = 0;
