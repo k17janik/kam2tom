@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #define ROZM 10
 
-int *compress(double ** a_table, int *a_size);
+int *compress(double ** a_table, int *a_size);//cos//
+//sada//
 
 int main()
 {
