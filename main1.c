@@ -17,7 +17,7 @@ int isEqual(char* str1, char* str2)
 int main()
 {
     char str1[ROZM];
-    char str2[ROZM];
+    char str3[ROZM];
     int wynik;
     printf("Podaj pierwszy napis:\n");
     fgets(str1, ROZM, stdin);
